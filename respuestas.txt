@@ -1,2 +1,2 @@
 ‘Respuestas a las preguntas de la práctica 3’.
-( echo "Respuestas a las preguntas de la práctica 3" > respuestas.txt )
+1.- ¿Cuál es el propósito de trabajar con mútliples ramas?
